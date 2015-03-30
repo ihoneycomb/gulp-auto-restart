@@ -1,6 +1,6 @@
 {
   "name": "gulp-auto-restart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auto restart gulp on gulpfile change.",
   "keywords": [
     "gulp",
@@ -9,21 +9,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/"
+    "url": "git://github.com/ihoneycomb/gulp-auto-restart"
   },
   "author": {
-    "name": "",
-    "email": ""
+    "name": "ihoneycomb",
+    "email": "ihoneycomb@users.noreply.github.com"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
   "license": "MIT",
   "bugs": {},
-  "homepage": "",
+  "homepage": "git://github.com/ihoneycomb/gulp-auto-restart",
   "dependencies": {
-    "gulp": "^3.8.11",
+    "gulp": "^3.8.11"
   }
 }
