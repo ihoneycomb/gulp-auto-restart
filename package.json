@@ -1,10 +1,10 @@
 {
   "name": "gulp-auto-restart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "auto restart gulp on gulpfile change.",
   "keywords": [
     "gulp",
-    "gulpplugin",
+    "gulptask",
     "auto-restart"
   ],
   "repository": {
